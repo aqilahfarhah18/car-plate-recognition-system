@@ -6,3 +6,6 @@ tensorflow==1.14.0
 scikit-image==0.17.2
 scikit-learn==0.22.1
 h5py==2.10.0
+fastapi==0.61.2
+uvicorn==0.12.2
+pydantic==1.7.2
