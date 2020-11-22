@@ -5,3 +5,4 @@ Keras==2.3.1
 tensorflow==1.14.0
 scikit-image==0.17.2
 scikit-learn==0.22.1
+h5py==2.10.0
