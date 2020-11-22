@@ -13,11 +13,12 @@ from keras.models import model_from_json
 from keras.preprocessing.image import load_img, img_to_array
 from keras.applications.mobilenet_v2 import preprocess_input
 from sklearn.preprocessing import LabelEncoder
+from preprocessing import PreProcess
 import glob
 
-class Helpers:
-    def get_plate(image_path, Dmax=608, Dmin=256):
-        vehicle = preprocess_image(image_path)
+class CarHelpers:
+    def get_plate(image_path, wpod_net, Dmax=608, Dmin=256):
+        vehicle = PreProcess.preprocess_image(image_path)
         ratio = float(max(vehicle.shape[:2])) / min(vehicle.shape[:2])
         side = int(ratio * Dmin)
         bound_dim = min(side, Dmax)
