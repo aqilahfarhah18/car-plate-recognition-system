@@ -15,8 +15,8 @@ from keras.applications.mobilenet_v2 import preprocess_input
 from sklearn.preprocessing import LabelEncoder
 import glob
 
-class Model:
-    def load_model(self, path):
+class CarModel:
+    def load_model(path):
         try:
             path = splitext(path)[0]
             with open('%s.json' % path, 'r') as json_file:
