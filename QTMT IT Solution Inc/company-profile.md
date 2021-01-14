@@ -15,7 +15,7 @@ We change the way of how people think about AI and change their life habit.
 ---
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="src/quek.jpg" width="200" height="200" />
+<img src="assets/quek.jpg" width="200" height="200" />
 
 **QUEK YAO JING**
 
@@ -29,7 +29,7 @@ Resposiblity:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="src/mervyn.jpeg" width="200" height="220" />
+<img src="assets/mervyn.jpeg" width="200" height="220" />
 
 **MEVRYN LIM ZHE XI**
 
@@ -43,7 +43,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="src/tlh.jpeg" width="200" height="260" />
+<img src="assets/tlh.jpeg" width="200" height="260" />
 
 **TANG LI HO**
 
@@ -58,7 +58,7 @@ Responsiblity:
 
 **CHIEF FINANCIAL OFFICIAL (CFO)**
 
-<img src="src/wenxiang1.jpeg" width="200" height="200" />
+<img src="assets/wenxiang1.jpeg" width="200" height="200" />
 
 **TAN WEN XIANG**
 
