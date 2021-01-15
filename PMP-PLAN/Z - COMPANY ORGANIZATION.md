@@ -4,18 +4,15 @@ This company is setup by a group of AI enthusiastic students in UTeM. They are p
 Based in Malaysia, Malacca. 
 
 ## OUR MISSION
----
 BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
 
 ## Innovation
----
 We change the way of how people think about AI and change their life habit. 
 
 ## OUR TEAM
----
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/quek.jpg" width="200" height="200" />
+<img src="assets/quek.jpg" width="200" height="auto" />
 
 **QUEK YAO JING**
 
@@ -29,7 +26,7 @@ Resposiblity:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="assets/mervyn.jpeg" width="200" height="220" />
+<img src="assets/mervyn.jpeg" width="200" height="auto" />
 
 **MEVRYN LIM ZHE XI**
 
@@ -43,7 +40,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="assets/tlh.jpeg" width="200" height="260" />
+<img src="assets/tlh.jpeg" width="200" height="auto" />
 
 **TANG LI HO**
 
@@ -58,7 +55,7 @@ Responsiblity:
 
 **CHIEF FINANCIAL OFFICIAL (CFO)**
 
-<img src="assets/wenxiang1.jpeg" width="200" height="200" />
+<img src="assets/wenxiang1.jpeg" width="180" height="auto" />
 
 **TAN WEN XIANG**
 
@@ -67,3 +64,4 @@ Responsiblity:
 2. Do reporting and accounting on the cashflow of the project and company
 3. Communicate with all levels to find out how much budget to be allocated to each department
 4. Report to CEO if there are any budget issues
+5. Procurement Manager

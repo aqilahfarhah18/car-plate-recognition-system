@@ -6,7 +6,7 @@
 
  + Car Plate Implementation Example
 
-### Some description of the project coding and implmentation
+### Some description of the project coding and implementation
 
 ### Project Result
 
