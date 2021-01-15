@@ -16,9 +16,9 @@
 
 ### Responsibility Assignment Matrices (RAM)
 
-<img src="assets/planning/RAM1.svg" width="100%" height="100%">
+<img src="assets/planning/RAM1.png" width="100%">
 
-<img src="assets/planning/RAM2.svg" width="100%" height="100%"> 
+<img src="assets/planning/RAM2.png" width="100%"> 
 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
 |:-----:|:------:|------|
