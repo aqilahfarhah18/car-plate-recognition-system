@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.33333in" height="7.5in" class="slides-canvas" viewBox="0 0 960 540">
+  <defs>
+    <linearGradient id="lg_4472c4_RP44546a_44546a_45_ee_12e050" x1="198" y1="198" x2="304" y2="304" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4472C4" />
+      <stop offset="0.77" stop-color="#44546A" />
+      <stop offset="1" stop-color="#44546A" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_16_dc4f9" x1="13" y1="13" x2="90" y2="90" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_57_fbeac" x1="60" y1="60" x2="149" y2="149" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_ba_1097d3" x1="136" y1="136" x2="229" y2="229" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_3d_f1adb" x1="40" y1="40" x2="125" y2="125" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_a2_f6c4a" x1="110" y1="110" x2="197" y2="197" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_ff_10567d" x1="184" y1="184" x2="276" y2="276" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_e6_f5fa4" x1="156" y1="156" x2="242" y2="242" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_49_1015fe" x1="51" y1="51" x2="141" y2="141" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_7e_f3df2" x1="84" y1="84" x2="170" y2="170" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_72_f0606" x1="75" y1="75" x2="159" y2="159" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_78_10567c" x1="86" y1="86" x2="178" y2="178" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_b4_10567c" x1="129" y1="129" x2="221" y2="221" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+    <linearGradient id="lg_75ffffff_RPc4d6dce5_c4d6dce5_45_f3_10567c" x1="175" y1="175" x2="267" y2="267" spreadMethod="reflect" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.46" />
+      <stop offset="0.77" stop-color="#D6DCE5" stop-opacity="0.77" />
+      <stop offset="1" stop-color="#D6DCE5" stop-opacity="0.77" />
+    </linearGradient>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="960" height="540" fill="#FFFFFF" />
+    <path fill="url(#lg_4472c4_RP44546a_44546a_45_ee_12e050)" d="M271.78 126.06L436.05 126.06 436.05 175.35 271.78 175.35z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M271.78 126.06L436.05 126.06 436.05 175.35 271.78 175.35z" />
+    <g transform="matrix(1, 0, 0, 1, 278.7625, 136.1308)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#FFFFFF" x="3.873489" y="30.13383"><tspan x="41.62349" y="10.93383">Car Plate</tspan><tspan xml:space="preserve" x="108.2485" y="10.93383"> </tspan><tspan x="3.873489" y="30.13383">Recognition System</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_16_dc4f9)" d="M130.68 208.16L241.42 208.16 241.42 253.2 130.68 253.2z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M130.68 208.16L241.42 208.16 241.42 253.2 130.68 253.2z" />
+    <g transform="matrix(1, 0, 0, 1, 137.8763, 219.2331)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="8.25pt" fill="#000000" x="8.171429" y="24.06022"><tspan x="30.17143" y="10.86022">Task 1:</tspan><tspan xml:space="preserve" x="66.17143" y="10.86022"> </tspan><tspan x="8.171429" y="24.06022">Interface Design</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_57_fbeac)" d="M271.56 206.16L400.41 206.16 400.41 255.45 271.56 255.45z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M271.56 206.16L400.41 206.16 400.41 255.45 271.56 255.45z" />
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_ba_1097d3)" d="M440.91 207.4L580.11 207.4 580.11 255.93 440.91 255.93z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M440.91 207.4L580.11 207.4 580.11 255.93 440.91 255.93z" />
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_3d_f1adb)" d="M125.01 298.7L250.1 298.7 250.1 344.49 125.01 344.49z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M125.01 298.7L250.1 298.7 250.1 344.49 125.01 344.49z" />
+    <g transform="matrix(1, 0, 0, 1, 151.140625, 307.021423)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="7.477072" y="26.24433"><tspan x="1.767113" y="11.84433">Sub Task 1.1</tspan><tspan x="7.477072" y="26.24433">Input Page</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_a2_f6c4a)" d="M271.56 298.54L400.41 298.54 400.41 344.19 271.56 344.19z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M271.56 298.54L400.41 298.54 400.41 344.19 271.56 344.19z" />
+    <g transform="matrix(1, 0, 0, 1, 295.930664, 304.334778)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="1.470882" y="26.24432"><tspan x="4.823421" y="11.84432">Sub Task 2.1</tspan><tspan x="1.470882" y="26.24432">POST request</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_ff_10567d)" d="M440.91 296.88L580.11 296.88 580.11 342.53 440.91 342.53z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M440.91 296.88L580.11 296.88 580.11 342.53 440.91 342.53z" />
+    <g transform="matrix(1, 0, 0, 1, 461.558624, 304.7133)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="1.074448" y="26.24432"><tspan x="14.30199" y="11.84432">Sub Task 3.1</tspan><tspan x="1.074448" y="26.24432">Image Processing</tspan></text></g>
+    <g transform="matrix(0, 1, -1, -0, 461.735962, -78.22472)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M253.58 107.82L269.98 107.82 269.98 275.69 286.39 275.69" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, 240.836624, -240.836624)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M416.19 113.08L432.51 113.08 432.51 269.67 448.23 269.67" />
+    </g>
+    <g transform="matrix(0, 1, -1, -0, 535.703247, -154.1941)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M329.54 181.79L345.97 181.79 345.97 199.72 360.35 199.72" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, -89.34691, 89.34691)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M163.85 275.39L186.05 275.39 186.05 275.39 208.24 275.39" />
+    </g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_e6_f5fa4)" d="M271.18 389.39L399.07 389.39 399.07 435.44 271.18 435.44z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M271.18 389.39L399.07 389.39 399.07 435.44 271.18 435.44z" />
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_49_1015fe)" d="M442.34 389.39L578.68 389.39 578.68 435.04 442.34 435.04z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M442.34 389.39L578.68 389.39 578.68 435.04 442.34 435.04z" />
+    <g transform="matrix(1, 0, 0, 1, 448.11084, 392.625671)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="6.75pt" fill="#000000" x="56.39709" y="41.3975"><tspan x="39.64709" y="8.9975">Sub Task 3.2</tspan><tspan x="30.14709" y="19.7975">Find and draw the</tspan><tspan xml:space="preserve" x="102.1471" y="19.7975"> </tspan><tspan x="3.897087" y="30.5975">boundary images of the license</tspan><tspan xml:space="preserve" x="128.3971" y="30.5975"> </tspan><tspan x="56.39709" y="41.3975">plate</tspan></text></g>
+    <g transform="matrix(0, 1, -1, -0, 552.589233, 180.493958)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M164.46 366.54L186.05 366.54 186.05 366.54 207.63 366.54" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 285.8734, 216.802917)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="1.921463" y="26.06853"><tspan x="29.149" y="11.66853">Task 2:</tspan><tspan xml:space="preserve" x="67.19392" y="11.66853"> </tspan><tspan x="1.921463" y="26.06853">API Management</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 453.9381, 214.688675)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="4.695007" y="26.06853"><tspan x="37.54755" y="11.66853">Task 3:</tspan><tspan xml:space="preserve" x="75.59247" y="11.66853"> </tspan><tspan x="4.695007" y="26.06853">Car Plate Detection</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_7e_f3df2)" d="M125.01 389.54L248.39 389.54 248.39 438.6 125.01 438.6z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M125.01 389.54L248.39 389.54 248.39 438.6 125.01 438.6z" />
+    <g transform="matrix(1, 0, 0, 1, 150.8806, 401.876617)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="2.19062" y="23.85914"><tspan x="1.168159" y="9.459138">Sub Task 1.2</tspan><tspan x="2.19062" y="23.85914">Output Page</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 285.8734, 399.379364)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="18.30383" y="26.24432"><tspan x="17.65636" y="11.84432">Sub Task 2.2</tspan><tspan x="18.30383" y="26.24432">GET request</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_72_f0606)" d="M626.6 205.33L748.7 205.33 748.7 253.2 626.6 253.2z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M626.6 205.33L748.7 205.33 748.7 253.2 626.6 253.2z" />
+    <g transform="matrix(1, 0, 0, 1, 633.799133, 208.927963)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="22.34934" y="39.20511"><tspan x="34.82687" y="10.40511">Task 4:</tspan><tspan xml:space="preserve" x="72.8718" y="10.40511"> </tspan><tspan x="28.91184" y="24.80511">Car Plate</tspan><tspan xml:space="preserve" x="78.78683" y="24.80511"> </tspan><tspan x="22.34934" y="39.20511">Recognition</tspan></text></g>
+    <path stroke-width="1" stroke="#000000" fill="none" d="M509.32 191.37L687.65 191.37 687.65 205.33" />
+    <g transform="matrix(0, 1, 1, -0, 58.913147, -58.913147)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M313.79 277.07L335.98 277.07 335.98 277.07 358.18 277.07" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, -29.31314, 29.31314)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M313.79 365.3L335.98 365.3 335.98 365.3 358.18 365.3" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, 234.166931, -234.166931)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M490.1 276.34L510.57 276.34 510.57 276.47 531.05 276.47" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, 144.544342, -144.544342)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M487.07 365.96L510.5 365.96 510.5 365.96 533.94 365.96" />
+    </g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_78_10567c)" d="M618.72 294.13L757.91 294.13 757.91 339.77 618.72 339.77z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M618.72 294.13L757.91 294.13 757.91 339.77 618.72 339.77z" />
+    <g transform="matrix(1, 0, 0, 1, 639.363464, 301.95874)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="9.136948" y="26.24432"><tspan x="14.30199" y="11.84432">Sub Task 4.1</tspan><tspan x="9.136948" y="26.24432">Defining Model</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_b4_10567c)" d="M614 385.22L753.2 385.22 753.2 430.87 614 430.87z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M614 385.22L753.2 385.22 753.2 430.87 614 430.87z" />
+    <g transform="matrix(1, 0, 0, 1, 634.6495, 393.057373)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="9.672104" y="26.24432"><tspan x="14.30199" y="11.84432">Sub Task 4.2</tspan><tspan x="9.672104" y="26.24432">Model Training</tspan></text></g>
+    <path fill="url(#lg_75ffffff_RPc4d6dce5_c4d6dce5_45_f3_10567c)" d="M614 476.32L753.2 476.32 753.2 521.97 614 521.97z" />
+    <path stroke-width="1.5" stroke="#000000" fill="none" d="M614 476.32L753.2 476.32 753.2 521.97 614 521.97z" />
+    <g transform="matrix(1, 0, 0, 1, 634.649353, 476.885681)"><text font-family="Arial" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="29.98948" y="40.71463"><tspan x="14.30199" y="11.91464">Sub Task 4.3</tspan><tspan x="9.449448" y="26.31464">Evaluating and</tspan><tspan xml:space="preserve" x="88.44944" y="26.31464"> </tspan><tspan x="29.98948" y="40.71463">Testing</tspan></text></g>
+    <g transform="matrix(0, 1, 1, -0, 414.137817, -414.137817)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M666.91 273.18L687.39 273.18 687.39 273.31 707.86 273.31" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, 326.387329, -326.387329)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M664.75 361.79L688.18 361.79 688.18 361.8 711.61 361.8" />
+    </g>
+    <g transform="matrix(0, 1, 1, -0, 234.195587, -234.195587)">
+      <path stroke-width="1" stroke="#000000" fill="none" d="M663.65 452.89L687.09 452.89 687.09 452.89 710.52 452.89" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 163.148682, 29.0722828)"><text font-family="Calibri" font-style="normal" font-weight="200" font-stretch="normal" font-size="31.5pt" fill="#000000" x="27.74338" y="41.02904"><tspan x="27.74338" y="41.02904">Simple Work Breakdown Structure</tspan></text></g>
+  </g>
+</svg>

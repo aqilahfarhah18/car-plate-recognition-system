@@ -20,4 +20,4 @@ In our car plate recognition system, a camera will be positioned at the barrier 
 ### Objectives:
 + To develop an artificial intelligence system that are able to detect Malaysia car number plate
 + To develop a system that are able to recognize the character of the car number plate
-+ To design an modular architecture instead of the monolithic system architecture
++ To develop an application programming interface (API) for the future ease of use as the integration module
