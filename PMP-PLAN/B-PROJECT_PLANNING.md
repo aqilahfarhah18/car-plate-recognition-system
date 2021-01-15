@@ -2,9 +2,22 @@
 ## B. PLANNING THE PROJECT
 
 ### Project Management Life cycle
-[insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc]
 
-<img src="assets/planning/WBS.svg" alt=" WBS Gantt Chart" width="100%">
+The project management life cycle is represented and documented in the form of Gantt Chart which allows QTMT staff to follow the guidelines and achieved the milestone from time to time. The project life cycle WBS breakdown the task and work of every members such as project manager into several modules. Every member have their own roles and part in every stage of the lifecyle based on the constructed WBS.
+
+Project management WBS is shown in the Gantt Chart below:
+
+<img src="assets/planning/WBS1.png" width="100%">
+<img src="assets/planning/WBS2.png" width="100%">
+
+As for the Car Plate Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Car Plate Detection and Car Plate Recognition: 
+
+<img src="assets/planning/WBS-Prj.png" width="100%">
+
+### Scope
+A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
+
+In this car plate recognition project, we need to identify the scope of the project. For instance, the project will not accept car plate number that are unique as it does not follow the government rules. For example, the car plate number is reflecting to lights and car plate number with special fonts will not be acceptable. Besides, this project scope down the limit of the project by only detect alphabet and number character. Therefore, country such as Japan and Thailand might not be able to use this system.
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
