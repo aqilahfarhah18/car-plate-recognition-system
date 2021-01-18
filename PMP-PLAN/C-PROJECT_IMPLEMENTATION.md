@@ -29,10 +29,11 @@ WPOD-Net architecture:
 |   TOTAL                      |$127200                        |  Estimated     |                              |
 
 ### Milestone Chart
-#### Developed by Power Point:
+#### Developed by Microsoft Project:
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
 <img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
 
-#### Developed by Microsoft Project:
+#### Developed by Power Point:
+The flags indicate the milestones of our car plate recognition project
 <img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
