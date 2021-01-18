@@ -40,7 +40,9 @@ The image undergoes image processing by converting to grayscale, blur image, ima
 <img src="assets/8.JPG" width="100%">
 
 ### Project Result
+Result using Tkinter:
 <img src="assets/tkinter.JPG" width="100%">
 
+Result using Web API:
 <img src="assets/9.jpeg" width="100%">
 
