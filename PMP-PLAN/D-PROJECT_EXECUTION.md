@@ -2,7 +2,7 @@
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
 Flowchart Design:
-<img src="assets/flowchart.JPG" width="100%">
+<img src="assets/flowchart.JPG" width="60%">
 
  Car Plate Implementation Example
 
@@ -12,7 +12,7 @@ Libraries and Packages required:
 
 Car Plate Detection: 
 Firstly, we load our model from the pre-trained which created by sergiomsilva.From our Github repository, two files: wpod-net.h5 and wpod-net.json canbe found. Notifications "loading model successfully..." should be get after this step. 
-<img src="assets/requi.JPG" width="100%">
+<img src="assets/requi.JPG" width="40%">
 
 Subsequently, we create a function name preprocess_image to read and pre-process our plate images. This function basically reads the parsing image, converts it to RGB (line 3) and normalizes the image data to 0–1 range so it can be compatible with matplotlib. Additionally, we can set resize = True to resize all images to same dimension of (width = 224, height = 224) for visualizing purpose in the next step.
 <img src="assets/1.JPG" width="100%">
@@ -41,5 +41,6 @@ The image undergoes image processing by converting to grayscale, blur image, ima
 
 ### Project Result
 <img src="assets/tkinter.JPG" width="100%">
+
 <img src="assets/9.jpeg" width="100%">
 
