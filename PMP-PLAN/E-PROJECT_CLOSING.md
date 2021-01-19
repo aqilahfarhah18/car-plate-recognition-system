@@ -33,7 +33,7 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-<img src="assets/closing/budget.svg" width="100%">
+<img src="assets/closing/budget.PNG" width="100%">
 
 **5.0 PROJECT ASSESSMENT**
 
@@ -60,4 +60,4 @@ iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.svg" width="100%">
+<img src="assets/closing/close_contract.PNG" width="100%">
