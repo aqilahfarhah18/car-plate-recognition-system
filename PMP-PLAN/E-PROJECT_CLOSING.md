@@ -33,7 +33,7 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-<img src="assets/closing/budget.svg" width="100%">
+<img src="assets/closing/budget.PNG" width="100%">
 
 **5.0 PROJECT ASSESSMENT**
 
@@ -53,11 +53,15 @@ By creating this system, the time needed of queueing up in front of the barrier 
 **6.0 TRANSITION PLAN**
 
 QTMT Inc. staff will provide support when require. The main work of support provided by QTMT Inc.’s staff on the car plate recognition system project are as shown below:
+
 i) Maintain the system
+
 ii) Handling errors and updates of the system
+
 iii) Provide user guidelines for Aeon staff to use the system
+
 iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.svg" width="100%">
+<img src="assets/closing/close_contract.PNG" width="100%">
