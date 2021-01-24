@@ -36,5 +36,7 @@ The Web API developed with this Interface is for Proof of Concept (POC) and does
 <img src="PMP-PLAN/assets/9.jpeg" width="100%">
 
 ## Project Demonstration
-The video below is the project demonstration.
+
+The video below is the project presentation.
+
 [![](http://img.youtube.com/vi/nIq88fVd27k/0.jpg)](http://www.youtube.com/watch?v=nIq88fVd27k "")
