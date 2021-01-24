@@ -46,3 +46,7 @@ Result using Tkinter:
 Result using Web API:
 <img src="assets/9.jpeg" width="100%">
 
+
+<br><br><br>
+##### Next: [Project Closing](E-PROJECT_CLOSING.md)
+

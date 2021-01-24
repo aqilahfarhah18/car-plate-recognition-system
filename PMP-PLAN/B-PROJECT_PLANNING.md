@@ -23,9 +23,9 @@ In this car plate recognition project, we need to identify the scope of the proj
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|----|-------|-----|
-|   Quality       |                             |                           |                          |
-|   Cost          |                             |                           |                          |
-|   Time          |                             |                           |                          |
+|Quality|The system unable to detect the wrong car plate number (False Positive and False Negative)|How: The output result always segmented the wrong part of the car plate <br> <br> When: The quality problem of will be determined during the unit testing phase|Assign one member to keep on collecting the data day to day and increased the dataset until a satisfied result is determined.|
+|Cost|The costing of the server will be spike if one of the developer forget to shutdown the EC2 instance when not using it.|How: The monthly bills shows unexpected extra charged to the bills.<br><br>When: The problem most probably will be encountered during the project execution and project implementation.|Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service.
+|Time|Project not able to reach the milestone set  as described in the Gantt Chart.                         |How: The members are stuck with a certain problem and drag all the other team members <br><br> When: The problem will be encountered during the project excution and monitoring phase.| Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.|
 
 ### Responsibility Assignment Matrices (RAM)
 
@@ -51,6 +51,8 @@ In this car plate recognition project, we need to identify the scope of the proj
 | Executive Steering Committee | Tan Wen Xiang | The Executive Steering Committee acts as the Project stakeholders group, ensuring that the deliverables and functionality of the project are achieved as defined in the project initiation documents and subsequent project management plans. This committee provides high-level project direction, receives project status updates, and addresses and resolves issues, risks, or change requests. <br><br>Furthermore, Executive Steering Committee needs to make decisions concerning our financial management of the project. He measure the progress against the specific objectives, milestones and deliverables of each work page. |
 | Office of Technology Services (OTech) Representative | Quek Yao Jing | The OTech Representative acts as the liaison between the Project Office and the OTech in defining required services, assisting the project in determining the feasibility of services, cost estimates, planning, and other technical assistance to aid the project in making informed data center decisions.<br><br>This role is important as its will help our company to determine which technology and stack is important. After determine the technology stack and requirement, we can only check the risk management and assessibility. Therefore, OTech is very important to make sure correct technology stack and cost in a company. |
 
+<br><br><br>
+##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
 
 
 
