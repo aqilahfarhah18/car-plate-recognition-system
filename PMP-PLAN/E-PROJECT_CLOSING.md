@@ -5,10 +5,9 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/acceptance_form.svg" width="100%">
-
+![image](https://user-images.githubusercontent.com/121591140/211895244-7e6fe6f0-07ee-433a-b2be-928be4556736.png)
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.svg" width="100%">
+![image](https://user-images.githubusercontent.com/121591140/211895343-8e8ba8ef-a09a-4a04-be6e-585da939ebb4.png)
 
 
 #### 3. Final Project Report
@@ -33,39 +32,37 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-<img src="assets/closing/budget.PNG" width="100%">
+![image](https://user-images.githubusercontent.com/121591140/211895519-b2bbe211-b736-41b9-917a-ed0097702479.png)
 
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique number plates that does not follow the rules set by the government. Unique number plates that cannot be recognise includes number plates that are reflective, and also number plate with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their number plates.
+This coin counting application will define the project's scope. For instance, the project will only recognize coins from a single nation and the most recent generation. For instance, each coin must be placed separately on the scanning surface. For instance, the project will only recognize coins and will not take bank notes. Instead of stacking the coins, the user must sort them next since image processing requires that they be captured. Furthermore, because the coin size is only applicable to Malaysian coins, other nations like Korea will not be able to use this program. The fraudulent coins will also be recognized and stopped from counting.
 
 **5.2 OBJECTIVES**
 
-QTMT Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the number plate on the image and also read the characters on the number plate. 
-Besides, FAST API is used to implement the python program that are used to recognise the number plate into a html website. By using this method, our objective of building an API in the system was met.
+Cloud Revel Solution is able to achieve the objective since this application is using artificial intelligence powered which is image processing to detect coins and calculate its coin total. Besides, the application is able to collaboration with vending machine and it could ease user to use the vending machine with artificial intelligence power. By using this method, our object to develop an application that could ease user is being met.
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed of queueing up in front of the barrier gateway before entering the mall’s car park has been reduced. This can avoid traffic obstruction caused by the long queue. The process of paying the parking fees will also become more convenient as shoppers will no longer need to queue up in front of the auto pay machine and wait for their turn to pay for the parking fees. The parking fees will be automatically conducted from the account registered by the users after their number plate has been recognize. 
+By creating this system, it could save customer’s time when want to purchase food/drink from vending machine. All customers have to do is just put all their coins on the space given and the vending machine will automatically calculate its coins. So, the next customers didn’t have to wait much time as this application will save lot of time for each customers. In addition, the Milano Vending also gain advantages because the applications can detect the fake coins. So, the fake coins will not be calculated.recognize. 
 
 **6.0 TRANSITION PLAN**
 
-QTMT Inc. staff will provide support when require. The main work of support provided by QTMT Inc.’s staff on the car plate recognition system project are as shown below:
+Cloud Revel Solution staff will provide support when require. The main work of support provided by Cloud Revel Solution staff on the coin counting application project are shown as below:
 
-i) Maintain the system
+i)	Maintain the application
 
-ii) Handling errors and updates of the system
+ii)	Fix bugs and errors
 
-iii) Provide user guidelines for Aeon staff to use the system
+iii)	Provide guidelines for first time use in apply application into the machine as well as on how to use and works
 
-iv) Report information to senior management on monthly basis
+iv)	Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.PNG" width="100%">
-
+![image](https://user-images.githubusercontent.com/121591140/211895773-2b9628ed-85af-482f-a665-3e5ecc37c452.png)
 
 <br><br><br>
 ##### Next: [Project Presentation](F-PROJECT_PRESENTATION.md)
